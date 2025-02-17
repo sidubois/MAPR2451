@@ -3,7 +3,12 @@
 # SuperTB
 Special distribution of Supertb package (v1.0.1) for the purpose of the LMAPR2451 tight-binding tutorial
 
-### Instructions to use the notebook locally
+
+### Instructions to use the material remotely
+The tutorial is accessible on Google Colab at:
+https://colab.research.google.com/github/sidubois/MAPR2451/blob/master/MAPR2451.ipynb
+
+### Instructions to use the material locally on your own computer.
 If not done yet, install conda :
 see https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html
 
