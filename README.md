@@ -11,7 +11,7 @@ cd MAPR2451
 ```
 [OPTIONAL] Create and activate an environment for the project :
 ```
-conda create --name MAPR2451
+conda create --name MAPR2451 python=3.9
 conda activate MAPR2451
 ```
 Install the SuperTB package : 
