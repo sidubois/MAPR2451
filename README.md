@@ -4,6 +4,9 @@
 Special distribution of Supertb package (v1.0.1) for the purpose of the LMAPR2451 tight-binding tutorial
 
 ### Instructions to install the package
+If not done yet, install conda :
+see https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html
+
 Get the files from github and change to the project directory : 
 ```
 git clone https://github.com/sidubois/MAPR2451
