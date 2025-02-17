@@ -1,1 +1,2 @@
-./supertb-1.0.1-py3-none-any.whl
+python=3.9
+supertb-1.0.1-py3-none-any.whl
