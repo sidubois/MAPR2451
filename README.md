@@ -3,7 +3,7 @@
 # SuperTB
 Special distribution of Supertb package (v1.0.1) for the purpose of the LMAPR2451 tight-binding tutorial
 
-### Instructions to install the package
+### Instructions to use the notebook locally
 If not done yet, install conda :
 see https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html
 
@@ -16,10 +16,6 @@ Create and activate an environment for the project :
 ```
 conda create --name MAPR2451 python=3.12
 conda activate MAPR2451
-```
-Install the SuperTB package : 
-```
-pip install supertb-1.0.1-py3-none-any.whl
 ```
 Install the Jupyter-notebook package : 
 ```
