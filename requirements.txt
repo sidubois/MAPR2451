@@ -1,5 +1,3 @@
 numpy
 scipy
 networkx
-pymatgen
-bottleneck
