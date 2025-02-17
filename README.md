@@ -1,7 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sidubois/MAPR2451/master)
 
 # SuperTB
-Special distribution of Supertb package (v1.0.1) for the purpose of the LMAPR2451 tight-binding lab.
+Special distribution of Supertb package (v1.0.1) for the purpose of the LMAPR2451 tight-binding tutorial
 
 ### Instructions to install the package
 Get the files from github and change to the project directory : 
@@ -9,14 +9,20 @@ Get the files from github and change to the project directory :
 git clone https://github.com/sidubois/MAPR2451
 cd MAPR2451
 ```
-[OPTIONAL] Create and activate an environment for the project :
+Create and activate an environment for the project :
 ```
-conda create --name MAPR2451 python=3.9
+conda create --name MAPR2451 python=3.12
 conda activate MAPR2451
 ```
 Install the SuperTB package : 
 ```
 pip install supertb-1.0.1-py3-none-any.whl
+
+```
+Install the Jupyter-notebook package : 
+```
+pip install notebook
+
 ```
 
 You are now ready to run the jupyter notebook :
