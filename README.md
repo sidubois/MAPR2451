@@ -5,7 +5,10 @@ Special distribution of Supertb package (v1.0.1) for the purpose of the LMAPR245
 
 
 ### Instructions to use the material remotely
-The tutorial is accessible on Google Colab at:
+The tutorial is accessible online via Mybinder at:
+https://mybinder.org/v2/gh/sidubois/MAPR2451/master
+
+The tutorial is also accessible on Google Colab at:
 https://colab.research.google.com/github/sidubois/MAPR2451/blob/master/MAPR2451.ipynb
 
 ### Instructions to use the material locally on your own computer.
